@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "name": "Örnek Kişi",
+      "department": "Bilişim",
+      "salary": "5000",
+      "id": 1
+    }
+  ]
+}

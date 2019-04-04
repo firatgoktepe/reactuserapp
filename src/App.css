@@ -1,0 +1,11 @@
+@media screen and (max-width: 600px){
+    a.navbar-brand {
+    
+    font-size: 30px;
+    position:absolute;
+    margin-top: 20px; 
+    margin-left: 130px;
+    
+   }
+}
+
