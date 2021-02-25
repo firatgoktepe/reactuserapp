@@ -1,4 +1,7 @@
 # React User App
+
+This App allows to add, remove and update custom users into the list
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
